@@ -2,7 +2,7 @@
 
 This is a repository, where I track my learning via daily objectives. There is a folder for each week, where the daily objectives are listed in the respective README.
 
-#### Format
+### Format
 
 The format for the objectives that I came up with is as follows:
 
@@ -13,7 +13,6 @@ The format for the objectives that I came up with is as follows:
   1) What have I done well? If I can see that I have excelled somewhere, I would consider that particular item to be complete. From here, it is good to think about how I can expand upon what I've done well and consider it for my future goals.
   2) Where did I fail? If I have failed somewhere in particular, then this is an area that I need to define and become confident in, particularly if it is some concept.
 
-#### Backlog
+### Backlog
 
-This is a list of items that I acknowledged incompetence in, and am yet to resolve it:
- 
+This is a list of items that I would like to learn or have acknowledged incompetence in (see _Reflection_), and am yet to complete:
