@@ -26,5 +26,7 @@ _Actions:_
 - Start the airport challenge and try to do it properly from the start. Write the tests first and then code.  
 
 _Reflection:_
+- I let KC drive the exercises that I had done yesterday and learned a lot of new things by looking at her way of solving the same problems.
+- I have did some research surrounding the airport challenge, e.g. what is rubocop and how to use it. I have everything set up now and should be ready to begin tomorrow.
 
 --------------------------------------------------------------------------
