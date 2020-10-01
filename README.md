@@ -16,3 +16,6 @@ The format for the objectives that I came up with is as follows:
 ### Backlog
 
 This is a list of items that I would like to learn or have acknowledged incompetence in (see _Reflection_), and am yet to complete:
+
+_01/10_
+- Check out other GitHub tracking learning examples and see if I can improve my repo.
