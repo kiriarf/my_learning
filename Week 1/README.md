@@ -27,6 +27,22 @@ _Actions:_
 
 _Reflection:_
 - I let KC drive the exercises that I had done yesterday and learned a lot of new things by looking at her way of solving the same problems.
-- I have did some research surrounding the airport challenge, e.g. what is rubocop and how to use it. I have everything set up now and should be ready to begin tomorrow.
+- I have done some research surrounding the airport challenge, e.g. what is rubocop and how to use it. I have everything set up now and should be ready to begin tomorrow.
+
+--------------------------------------------------------------------------
+
+**Friday, 2nd October:**
+
+--------------------------------------------------------------------------
+
+_Goal:_
+Learn how to write tests with automated user input and begin exploring RSpec feature tests.
+
+_Actions:_
+- Revisit the exercise we were doing with KC yesterday and make the test work properly.
+- See if there are any opportunities for this in the airport challenge.
+
+_Reflection:_
+
 
 --------------------------------------------------------------------------
