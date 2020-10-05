@@ -43,6 +43,6 @@ _Actions:_
 - See if there are any opportunities for this in the airport challenge.
 
 _Reflection:_
-
+- Over the course of the Airport challenge, I have learned how to use stubs and mocks to allow for user input or stopping random behaviour (and isolating unit tests).
 
 --------------------------------------------------------------------------
