@@ -28,6 +28,22 @@ _Actions:_
 - Do the refactoring practicals
 
 _Reflection:_
+I spent my time today learning about other things. I followed a video creating an interactive card deck in Ruby and learned a lot of small things about classes and encapsulation.
+
+
+--------------------------------------------------------------------------
+
+**Wednesday, 7th October:**
+
+--------------------------------------------------------------------------
+
+_Goal:_
+Learn some refactoring techniques and enhance my understanding of private methods.
+
+_Actions:_
+- Do the refactoring practicals
+
+_Reflection:_
 
 
 --------------------------------------------------------------------------
