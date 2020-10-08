@@ -44,6 +44,22 @@ _Actions:_
 - Do the refactoring practicals
 
 _Reflection:_
+I have tried to do the refactoring practicals and learned about class/method/variable extraction. Coupled with dependency injection knowledge I got yesterday, this has greatly improved my confidence working with classes, although I still sometimes struggle with class extrction when it's not obvious, like the JourneyLog example in the oystercard challenge.
+Had a great pairing session with Emily yesterday where I could apply all of the above multiple times.
+
+--------------------------------------------------------------------------
+
+**Thursday, 8th October:**
+
+--------------------------------------------------------------------------
+
+_Goal:_
+Make more sense of class extraction in the oystercard challenge and try to finish it. 
+
+_Actions:_
+- Finish steps 15 and 16.
+
+_Reflection:_
 
 
 --------------------------------------------------------------------------
