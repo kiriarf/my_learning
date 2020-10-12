@@ -60,6 +60,6 @@ _Actions:_
 - Finish steps 15 and 16.
 
 _Reflection:_
-
+I have finished the oystercard challenge, but some of those steps did not make a lot of sense to me, for example making JourneyLog a separate class.
 
 --------------------------------------------------------------------------
